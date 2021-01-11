@@ -62,7 +62,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Assign sap2010:Annotation.AnnotationText="[확인] 사번 입력" DisplayName="확인!!!" sap:VirtualizedContainerService.HintSize="467,91" sap2010:WorkflowViewState.IdRef="Assign_1">
+    <Assign sap2010:Annotation.AnnotationText="본인 사번 입력" DisplayName="확인!!!" sap:VirtualizedContainerService.HintSize="467,91" sap2010:WorkflowViewState.IdRef="Assign_1">
       <Assign.To>
         <OutArgument x:TypeArguments="x:String">[offiecePlus_id]</OutArgument>
       </Assign.To>
