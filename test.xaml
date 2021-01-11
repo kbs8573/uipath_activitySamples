@@ -62,6 +62,6 @@
         <InArgument x:TypeArguments="x:String">variable 01</InArgument>
       </Assign.Value>
     </Assign>
-    <If Condition="[1=1]" sap:VirtualizedContainerService.HintSize="484,208" sap2010:WorkflowViewState.IdRef="If_1" />
+    <If Condition="[2=2]" sap:VirtualizedContainerService.HintSize="484,208" sap2010:WorkflowViewState.IdRef="If_1" />
   </Sequence>
 </Activity>
